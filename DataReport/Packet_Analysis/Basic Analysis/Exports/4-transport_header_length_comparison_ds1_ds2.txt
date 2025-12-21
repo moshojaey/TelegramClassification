@@ -1,0 +1,5 @@
+DS1-Telegram: {32: 39666, 52: 827, 40: 334, 44: 3950, 60: 842, 20: 147, 8: 4234}
+DS1-Non-Telegram: {32: 34040, 44: 2204, 20: 4773, 40: 825, 52: 373, 60: 931, 8: 6790, 56: 38, 48: 24, 24: 2}
+DS2-Telegram: {32: 590, 8: 49362, 40: 26, 44: 2, 20: 20}
+DS2-Non-Telegram: {8: 42365, 32: 5985, 40: 120, 20: 56, 44: 612, 60: 646, 52: 216}
+[✔] Chart saved to: D:\TelegramClassification\DataReport\Packet_Analysis\Exports\transport_header_length_comparison_ds1_ds2.png
